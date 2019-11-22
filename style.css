@@ -1,0 +1,17 @@
+*
+{
+margin: 0px auto;
+padding: 0px auto;
+}
+body
+{
+width:100%;
+margin:0px auto;
+background-color:red;
+}
+p
+{
+text-align:center;
+color:#fff;
+font-size:18px;
+}
